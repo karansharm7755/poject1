@@ -1,0 +1,29 @@
+# poject1
+<html>
+  <head>
+    <title>WELCOME</title>
+  </head>
+     <body>
+        <marquee><hr><h1>this is wed page</h1> </hr></marquee> 
+
+       <img src="logo.jpg" heigt="180px">
+
+             <table frame="border" border="1" width="75%">
+  <tr>
+<td><h1>name</h1></td>
+<td><h1>githud</h1></td>
+<td><h1>batch</h1></td>
+</tr>
+     <tr>
+    <td><h1>karan</h1></td>
+    <td><h1>git</h1></td>
+    <td><h1>it</h1></td>
+    </tr>
+</table>
+<a href="https://github.com/KARANSHARAM7755">GITHUB</a>
+  <br><i><h1>karan sharma</h1> </i></br>
+  <br><u><h1>it </h1></u></br>
+  <br><B><h1>2 year</h1></B></br>
+ </body>
+ 
+   </html>
